@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\bin\Debug\net6.0\Exemple002.exe
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\bin\Debug\net6.0\Exemple002.deps.json
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\bin\Debug\net6.0\Exemple002.runtimeconfig.json
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\bin\Debug\net6.0\Exemple002.dll
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\bin\Debug\net6.0\Exemple002.pdb
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\Exemple002.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\Exemple002.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\Exemple002.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\Exemple002.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\Exemple002.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\Exemple002.dll
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\refint\Exemple002.dll
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\Exemple002.pdb
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\Exemple002.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ\Искусственный интеллект\Программирование\Tasks\Example\Exemple002\obj\Debug\net6.0\ref\Exemple002.dll
